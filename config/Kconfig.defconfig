@@ -1,0 +1,7 @@
+if SHIELD_apboard
+
+config ZMK_KEYBOARD_NAME
+    default "apboard"
+
+endif
+
